@@ -17,9 +17,4 @@ How to Explore:
 Visit the live website to learn more about Wild Ventures Resort and plan your perfect nature retreat!
 
 🛠 How to Use:
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/wild-ventures-resort.git
 Open index.html in your browser to view the website locally.
