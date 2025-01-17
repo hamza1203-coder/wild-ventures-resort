@@ -16,9 +16,6 @@ Interactive Features: Users can browse the gallery and contact the resort owner 
 How to Explore:
 Visit the live website to learn more about Wild Ventures Resort and plan your perfect nature retreat!
 
-🚀 Deployed Link:
-Wild Ventures Resort Website (Replace with your actual GitHub Pages link)
-
 🛠 How to Use:
 Clone the repository:
 bash
